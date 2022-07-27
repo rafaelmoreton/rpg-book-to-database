@@ -1,0 +1,3287 @@
+CAPÍTULO
+
+5:
+
+EQUIPAMENTO
+
+S MERCADOS DAS GRANDES CIDADES FERVILHAM
+
+com todo tipo de compradores e vendedores:
+anões ferreiros e elfos carpinteiros, peque­
+ninos fazendeiros e gnomos joalheiros, sem
+esquecer os humanos de todas as origens,
+tamanhos e cores, vindos das mais diversas
+nações e culturas. Nas maiores capitais, quase
+tudo o que pode ser imaginado está disponível para venda,
+desde temperos exóticos e roupas de luxo até cestos de vime
+e espadas de treinamento.
+Para um aventureiro, a disponibilidade de armaduras,
+armas, mochilas, cordas e outros apetrechos é de suma
+importância, já que o equipamento certo pode significar a
+diferença entre a vida e a morte numa masmorra ou nos
+ermos selvagens. Este capítulo detalha as mercadorias
+mundanas e exóticas que os aventureiros geralmente con­
+sideram úteis para enfrentar as ameaças que povoam os
+mundos de D&D.
+
+EQUIPAMENTO INICIAL
+Ao criar o seu personagem, você recebe equipamento com
+base na combinação de classe e antecedente. Mas também
+existe a opção de começar o jogo com uma certa quantidade
+de peças de ouro, determinada por sua classe, a qual pode
+ser usada na aquisição dos itens que você encontra nas listas
+deste capítulo. Consulte a tabela Riqueza Inicial por Classe
+para determinar quanto ouro você possui.
+Cabe a você decidir o modo como seu personagem obteve
+acesso a esse equipamento inicial. Ele pode tê-lo recebido
+como herança ou adquirido durante seu treinamento. Ele
+pode ter recebido sua arma, armadura e mochila durante o
+serviço militar. Pode até mesmo tê-lo roubado. Uma arma,
+por exemplo, pode ser uma relíquia de família, passada de
+geração a geração até chegar a vez do seu personagem final­
+mente seguir os passos de um antepassado aventureiro.
+RIQUEZA INICIAL POR CLASSE
+
+Classe
+Bárbaro
+Bardo
+Bruxo
+Clérigo
+Druida
+Feiticeiro
+Guardião
+Guerreiro
+Ladino
+Monge
+Mago
+Paladino
+
+Recursos
+2d4x10 PO
+5d4x10 PO
+4d4x10 PO
+5d4x10 PO
+2d4x10 PO
+3d4x10 PO
+5d4xl0 PO
+5d4x10 PO
+4d4x10 PO
+5d4 PO
+4d4x10 PO
+5d4x10 PO
+
+Os membros da nobreza negociam direitos legais - como os
+direitos de explorar uma mina, um porto ou terras agrícolas e ouro, contado em barras ou quilos. Somente comerciantes,
+aventureiros e aqueles que alugam seus serviços profissio­
+nais negociam em moedas.
+
+CUNHAGEM
+As moedas de troca mais utilizadas recebem denominações
+diferentes, de acordo com o valor do metal que as compõe. As
+três moedas mais comuns são denominadas: peças de ouro
+(PO), peças de prata (PP) e peças de cobre (PC).
+Com uma peça de ouro, um personagem consegue comprar
+um saco de dormir, 15 metros de corda de boa qualidade ou
+uma cabra. Um artesão hábil (mas não excepcional) pode
+ganhar uma peça de ouro por dia. Na verdade, a peça de ouro
+é a unidade padrão de medida de riqueza, mesmo que não
+se use fisicamente nenhuma moeda durante uma transação.
+Quando os comerciantes fecham negócios envolvendo bens
+ou serviços no valor de centenas ou milhares de peças de
+ouro, essas transações geralmente não envolvem a troca
+de moedas físicas. A peça de ouro serve apenas como um
+padrão de valor, e os pagamentos podem ser feitos em barras
+de ouro, em cartas de crédito ou em bens valiosos.
+Em termos de troca, uma peça de ouro vale dez peças de
+prata, que é a moeda mais comum entre os plebeus. Uma
+peça de prata paga meio dia de serviço de um trabalhador,
+um frasco de óleo para tochas ou uma noite de descanso em
+uma estalagem humilde.
+Por sua vez, uma peça de prata vale dez peças de cobre,
+que são as moedas que mais circulam entre os trabalhadores
+braçais ou os mendigos. Uma peça de cobre compra uma
+vela, uma tocha ou um pedaço de giz.
+Além disso, moedas mais raras, feitas de outros metais pre­
+ciosos, volta e meia aparecem no meio de grandes tesouros. A
+peça de electro (PE) e a peça de platina (PL) são originárias
+de antigos impérios caídos ou reinos perdidos e muitas vezes
+despertam suspeita e ceticismo quando usadas em transa­
+ções. Mesmo assim, uma peça de electro vale cinco peças de
+prata e uma peça de platina vale dez peças de ouro.
+Independentemente do metal usado para cunhá-la, uma
+moeda padrão pesa cerca de 10 gramas. Logo, cem moedas
+pesam um quilo.
+CÂMBIO PADRÃO
+
+Moeda
+
+!
+
+Cobre (PC)
+Prata (PP)
+Elektro (PE)
+Ouro (PO)
+Platina (PL)
+
+PC
+
+PP
+
+PO
+
+PE
+
+PL
+
+10
+50
+100
+1.000
+
+1/10
+l
+5
+10
+100
+
+1/50
+1/5
+
+1/100
+1/10
+1/2
+
+1/1,000
+1/100
+1/20
+1/10
+
+2
+20
+
+10
+
+RIQUEZA
+A riqueza pode assumir muitas formas nos mundos de D&D.
+Moedas, pedras preciosas, bens comerciais, objetos de arte,
+animais e propriedades refletem a situação financeira do seu
+personagem. Os camponeses negociam mercadorias, tro­
+cando-as por aquilo de que precisam. E pagam impostos na
+forma de produtos, como cereais e queijo.
+PLATINA
+
+PARTE 1 j CAPÍTULO 5 1 EQUIPAMENTO
+
+143
+
+VENDENDO TESOUROS
+Não faltam oportunidades para·se encontrarem tesouros,
+equipamentos, armas, armaduras e muitos outros itens de
+valor nas masmorras que você explora. Normalmente, é
+possível vender seus tesouros e bugigangas sempre que você
+chega a uma cidade ou povoado, desde que consiga encontrar
+compradores ou comerciantes interessados.
+Armas, Armaduras e Outros Equipamentos. Como
+regra geral, armas, armaduras e outros equipamentos em
+boas condições são cotados em metade do seu valor quando
+revendidos. Armas e armaduras utilizadas por monstros rara­
+mente estão em condições aceitáveis para serem revendidas.
+Itens Mágicos. Vender itens mágicos é um pouco mais
+complicado. Encontrar alguém que compre uma poção ou
+um pergaminho mágico não é muito difícil, mas outros itens
+estão acima do poder aquisitivo da maioria das pessoas, a
+não ser pelos nobres mais abastados. Da mesma forma, a não
+ser por alguns itens mágicos mais comuns, não se costuma
+encontrar pergaminhos ou itens mágicos à venda. O valor da
+magia ultrapassa em muito o valor do ouro, e ela sempre deve
+ser tratada dessa forma.
+Gemas,Joias e Objetos de Arte. Estes são itens que con­
+servam seu valor integral de mercado e você pode trocá-los
+por moedas ou usá-los como meio de troca em outras transa­
+ções. Para tesouros excepcionalmente valiosos, o DM pode
+exigir que você encontre primeiro um comprador em uma
+cidade ou numa grande capital.
+Bens de Troca e Outros. Nas terra de fronteira, muita
+gente faz seus negócios no dia a dia por meio da permuta
+ou do escambo. Assim como joias e objetos de arte, os bens
+de troca - barras de ferro, sacos de sal, cabeças de gado e
+assim por diante - mantêm seu valor integral de mercado e
+podem ser usados como moeda.
+
+ARMADURA E ESCUDOS
+
+Os mundos de D&D são verdadeiros caldeirões onde se
+misturam muitas culturas diferentes, cada uma com seu pró­
+prio nível de tecnologia. Por esta razão, os aventureiros têm
+acesso a uma enorme variedade de tipos de armadura, que
+variam de.sde as armaduras de couro até as cotas de malha e
+as armaduras de placas, com muitos outros tipos entre elas.
+A tabela Armaduras reúne os tipos mais comuns encontrados
+durante aventuras, separados em três categorias: armaduras
+leves, armaduras médias e armaduras pesadas. Além disso,
+muitos combatentes complementam suas armaduras com o
+uso de um escudo.
+VARIANTE: TAMANHO DOS EQUIPAMENTOS
+
+Na maioria das campanhas, você pode usar ou vestir qualquer
+equipamento que encontrar em suas aventuras, dentro dos limites
+do bom senso. Por exemplo, um meio-ore não caberia na armadura
+de couro de um pequenino, e um gnomo seria engoli(iio pelo elegante
+1
+manto de um gigante das nuvens.
+Contudo o DM pode propor ainda mais realismo. Por exemplo,
+uma armadura de placas feita para um humano pode não servir em
+outro antes que sejam feitas alterações significativas, assim como
+o uniforme de um guarda pode ficar visivelmente largo ou apertado
+, demais ao ser usado como disfarce por um aventureiro.
+Quando esta variação for usada, sempre que os aventureiros
+encontrarem armaduras, roupas e outros itens feitos para serem
+vestidos, eles devem visitar um ferreiro, alfaiate, coureiro ou outro
+profissional adequado antes de tornar o item utilizável. O custo desse
+tipo de trabalho varia de 10 a 40 por cento do preço de mercado do
+item. O DM pode tanto jogar ld4 x 10 quanto determinar o aumento
+do custo com base na quantidade de alterações necessárias.
+PARTE 1 1 CAPÍTULO 5 1 EQUIPAMENTO
+
+A tabela de Armaduras traz ainda o custo, o peso e outras
+propriedades dos tipos mais comuns de armaduras e escudos
+usados nos mundos de D&D.
+Proficiência com Armadura. Qualquer pessoa pode
+vestir um conjunto de armadura ou amarrar um escudo ao
+seu braço. Entretanto, somente aqueles que são proficientes
+no uso de uma armadura sabem como usá-la efetivamente.
+Sua classe torna-o proficiente com determinados tipos de
+armadura. Enquanto usa uma armadura com a qual não seja
+proficiente, você recebe desvantagem em qualquer teste de
+atributo, salvaguarda ou jogada de ataque que envolva Força
+ou Destreza, não sendo capaz também de conjurar magias.
+Classe de Armadura (CA). Uma armadura serve para
+proteger seu usuário de ataques. A armadura e o escudo que
+você usa determinam sua Classe de Armadura básica.
+Peso da Armadura. Uma armadura pesada interfere na
+capacidade do usuário se mover com rapidez, furtividade e
+liberdade. Essa armadura subtrai 3 metros do deslocamento
+do seu usuário, a não ser que ele tenha um valor de Força
+igual ou superior ao valor indicado na coluna Força, na
+tabela Armaduras.
+Furtividade. Se a tabela de Armaduras mostrar "Desvanta­
+gem" na coluna Furtividade, o seu usuário tem desvantagem
+nos testes de Destreza (Furtividade).
+Escudos. Um escudo pode ser feito de madeira ou metal e
+pode ser carregado em uma das mãos. Empunhar um escudo
+aumenta sua Classe de Armadura em 2. Você só recebe este
+benefício por um único escudo empunhado.
+
+ARMADURAS LEVES
+Feita de materiais macios e finos, a armadura leve é vanta­
+josa para os aventureiros mais ágeis, já que oferece alguma
+proteção sem sacrificar a sua mobilidade. Se você usa uma
+armadura leve, adicione seu modificador de Destreza ao
+número base do seu tipo de armadura para determinar sua CA.
+Acolchoada. Uma armadura acolchoada consiste em cama­
+das estofadas de tecido e forro.
+Couro. Os protetores de peitoral e ombros desta armadura
+são feitos de peças de couro que foram reforçadas ao serem
+curtidas em óleo. O restante da armadura é feito de materiáis
+mais macios e flexíveis.
+Couro Batido. Feita de um couro mais rígido, porém
+flexível, reforçado com rebites próximos uns dos outros
+ou com cravos.
+
+ARMADURAS MÉDIAS
+A armadura média oferece mais proteção do que a armadura
+leve, porém, em compensação, limita mais os seus movimen­
+tos. Caso use uma armadura média, adicione seu modificador
+de Destreza (até o limite de +2) ao número base do seu tipo de
+armadura para determinar sua CA.
+Gibão de Peles. Esta armadura rústica consiste em peles
+e couros grossos. Geralmente é usada por tribos bárbaras,
+humanoides malignos e outros povos que não têm acesso às
+ferramentas e materiais necessários para a criação de arma­
+duras melhores.
+Cota de Malha Parcial. Feita de anéis de metal interli­
+gados, é basicamente um camisão de malha usado entre
+camadas de tecido ou couro. Esta armadura oferece uma
+proteção limitada para a parte superior do corpo e permite
+que o som dos anéis se esfregando uns contra os outros seja
+abafado pelas camadas exteriores.
+Lórica de Escamas. Esta armadura é composta por um
+casaco e perneiras (e, talvez, por um saiote) feitos de couro
+
+e cobertos com camadas sobrepostas de peças de metal que
+lembram as escamas de um peixe. O traje inclui manoplas.
+Couraça Peitoral. Esta armadura é composta por um
+pedaço de metal revestido de couro que se ajusta ao peito.
+Embora deixe as pernas e braços relativamente desprote­
+gidos, esta armadura fornece boa proteção para os órgãos
+vit ais do usuário, deixando-o relativamente com pouca carga.
+Placas Parcial. Esta armadura consiste em placas de
+metal moldadas que cobrem a maior parte do corpo do
+usuário. Ela não inclui proteção para as pernas a não ser por
+tornozeleiras simples, presas com tiras de couro.
+
+ARMADURAS PESADAS
+De todas as categorias de armadura, a armadura pesada é a
+que oferece a maior proteção. Estes trajes reforçados cobrem
+todo o corpo e são projetados para deter uma ampla gama de
+ataques. Apenas guerreiros treinados são capazes de lidar
+bem com seu peso e volume.
+Uma armadura pesada não permite que você adicione o seu
+modificador de Destreza à sua Classe de Armadura e não o
+penaliza se o seu modificador de Destreza for negativo.
+Cota de Anéis. Trata-se de uma armadura de couro com
+anéis pesados costurados em toda a sua extensão. Os anéis
+ajudam a reforçar a armadura contra golpes de espadas e
+machado. A cota de anéis é inferior à cota de malha, em geral
+sendo usada apenas por aqueles que não podem comprar
+uma armadura melhor.
+Cota de Malha. Feita de anéis de metal interligados, a cota
+de malha inclui uma camada de tecido acolchoado usada sob
+a cota para evitar o atrito e amortecer o impacto dos golpes.
+O traje inclui manoplas.
+Cota de Talas. Esta armadura é feita de finas tiras verticais
+de metal, rebitadas em um revestimento protetor de couro
+que, por sua vez, fica sobre um enchimento de tecido. Uma
+cota de malha flexível protege as articulações.
+Placas. Esta armadura consiste em placas de metal molda­
+das e conectadas de modo a cobrir todo o corpo do usuário. O
+conjunto de placas inclui manoplas, pesadas botas de couro,
+um elmo com visor e espessas camadas de enchimento por
+baixo da armadura. Cintas e fivelas ajudam a distribuir o seu
+peso pelo corpo.
+[[armor-end]]
+
+Tipo de Armadura
+
+Custo
+
+Classe de Armadura (AC)
+
+Força
+
+Furtividade
+
+Peso
+
+Armaduras Leves
+Acolchoada
+
+5 PO
+
+11 + Modificador de Des
+
+Couro
+
+10 PO
+
+Couro Batido
+
+45 PO
+
+11 + Modificador
+de Des
+t
+
+Desvantagem
+
+4 kg
+5 kg
+7 kg
+
+12 + Modificador de Des
+
+Armaduras Médias
+Gibão de Peles
+
+10 PO
+
+12 + Modificador de Des (máx 2)
+
+6 kg
+
+Cota de Malha Parcial
+
+50 PO
+
+13 + M�dificador de Des (máx 2)
+
+10 kg
+
+Lórica de Escamas
+
+50 PO
+
+14 + Modificador de Des (máx 2)
+
+Desvantagem
+
+22 kg
+
+Couraça Peitoral
+
+400 PO
+
+Placas Parcial
+
+750 PO
+
+14 + Modificador de Des (máx 2)
+15 + Modificador de Des (máx 2)
+
+Desvantagem
+
+20 kg
+
+Desvantagem
+
+20 kg
+
+10 kg
+
+Armaduras Pesadas
+Cota de Anéis
+
+30 PO
+
+14
+
+Cota de Malha
+
+75 PO
+
+16
+
+13
+
+Desvantagem
+
+27 kg
+
+200 PO
+
+17
+
+15
+
+Desvantagem
+
+30 kg
+
+1.500 PO
+
+18
+
+15
+
+Desvantagem
+
+32 kg
+
+10 PO
+
++2
+
+Cota de Talas
+Placas
+
+-
+
+3 kg
+
+-
+
+PARTE 1 1 CAPÍTULO 5 1 EQUIPAMENTO
+
+1 45
+
+ENTRA NDO E SAINDO DE UMAARMADURA
+O tempo que alguém leva para vestir ou despir uma armadura
+depende da categoria desta.
+Vestir. Este é o tempo que se leva para colocar a armadura.
+Você só se beneficia da CA da armadura se dispor do tempo
+completo para vesti-la.
+Despir. Este é o tempo que se leva para retirar a armadura.
+Caso tenha ajuda, reduza este tempo pela metade.
+VESTINDO E DESPINDO UMA ARMADURA
+
+Categoria
+
+Vestir
+
+Despir
+
+Armadura Leve
+
+l minuto
+
+l minuto
+
+Armadura Média
+
+5 minutos
+
+l minuto
+
+Armadura Pesada
+
+10 minutos
+
+5 minutos
+
+Escudo
+
+l ação
+
+l ação
+
+ARMAS
+Sua classe concede proficiência em determinadas armas, o
+que reflete tanto o foco da classe quanto as ferramentas que
+você está mais propenso a usar. Independentemente de você
+preferir uma espadas longa ou um arco, sua arma e sua capa­
+cidade de utilizá-la de forma eficaz podem ser a diferença
+entre a vida e a morte durante uma aventura.
+A tabela de Armas lista as armas mais comuns nos mundos
+de D&D, o seu preço e peso, o dano que causam quando
+atingem seu alvo, além de quaisquer outras propriedades
+especiais que possuam. Cada arma é classificada como sendo
+de combate corpo a corpo ou combate à distância. Uma arma
+de combate corpo a corpo é usada para atacar um alvo que
+esteja a até 1,5 metro de distância de você, enquanto uma
+arma de combate à distância é usada para atacar qualquer
+alvo a distâncias maiores.
+
+PROFICIÊNCIA COM ARMAS
+Sua raça, classe e talentos podem conceder proficiência com
+determinadas armas ou categorias de armas. As categorias
+são: simples e marcial. A maioria das pessoas é capaz de
+usar armas simples com proficiência. Estas armas incluem
+clavas, maças e outras armas encontradas com frequência
+nas mãos de plebeus. Armas marciais, incluindo espadas,
+machados e armas de haste, necessitam de treinamento
+especializado para serem usadas de forma efetiva. A maioria
+dos guerreiros usa armas marciais, já que essas armas tiram
+melhor proveito de seu estilo de luta e treinamento.
+A proficiência com uma arma permite que você adicione
+o seu bônus-de proficiência às suas jogadas de ataque com
+essa arma. Você não deve adicionar seu bônus de proficiência
+a uma jogada de ataque feita com uma arma com a qual não
+seja proficiente.
+
+PROPRIEDADES DAS ARMAS
+Muitas armas têm propriedades especiais relacionadas ao
+seu uso, conforme mostrado na tabela Armas.
+Acuidade. Ao realizar um ataque com uma arma com
+esta propriedade, você pode escolher entre o modificador de
+Força ou de Destreza para as jogadas de ataque e dano. Mas
+deve usar o mesmo modificador para ambas as jogadas.
+Arremesso. Se uma arma possui a propriedade arre­
+messo, você pode lançá-la na realização de um ataque à
+distância. Caso se trate de uma arma de combate corpo a
+corpo, você deve utilizar o mesmo modificador de atributo
+para a jogada de ataque e de dano que usaria para um ataque
+PARTE 1 J CAPÍTULO 5 1 EQUIPAMENTO
+
+corpo a corpo com essa arma. Por exemplo, se você arremes­
+sar uma machadinha, deve usar o moc:lificador de Força, mas
+se arremessar uma adaga, pode usar Força ou Destreza, já
+que essa arma possui a propriedade acuidade.
+Alcance. Uma arma que possa ser usada para fazer um
+ataque à distância possui dois números indicados entre
+parênteses, após a munição ou o projétil. O primeiro indica o
+alcance normal de ataque com a arma em metros, enquanto
+0 segundo indica o alcance máximo. Ao atacar um alvo que
+esteja além do alcance normal, você tem desvantagem na
+jogada de ataque. Você não pode atacar um alvo que esteja
+além do alcance máximo.
+Duas Mãos. Armas com esta propriedade exigem o uso
+de duas mãos. Esta propriedade só é relevante quando
+se ataca com a arma, e não quando ela estiver apenas
+sendo empunhada.
+Especial. O uso de uma arma com esta propriedade é
+regido por regras incomuns, explicadas na descrição de cada
+arma (veja "Armas Especiais", posteriormente nesta seção).
+Extensão. Armas com esta propriedade adicionam 1,5
+metro ao seu alcance nas jogadas de ataque em combates
+corpo a corpo e no cálculo do seu alcance para ataques de
+oportunidade feitos com elas (consulte o capítulo 9).
+Leve. Uma arma leve é pequena e fácil de manusear, sendo
+a escolha ideal quando se luta com duas armas. Veja as
+regras para combate com duas armas no capítulo 9.
+Munição. Você só pode usar uma arma com esta proprie­
+dade para realizar um ataque à distância se possuir munição
+para disparar. Sempre que um disparo é feito, uma munição
+é gasta. Sacar a munição de uma aljava, estojo ou outro
+recipiente faz parte do ataque (você precisa de uma mão livre
+para recarregar uma arma de uma mão). Ao final da batalha,
+você pode recuperar metade da munição utilizada ao usar ao
+menos um minuto para procurar no campo de batalha.
+Ao usar uma arma que tenha a propriedade munição para
+realizar um ataque corpo a corpo, trate-a como uma arma
+improvisada (ver "Armas Improvisadas", adiante neste capí­
+tulo). Uma funda ainda precisa ser recarregada para causar
+algum dano quando usada desta forma.
+Pesada. Criaturas Pequenas possuem desvantagem nas
+jogadas de ataque com armas pesadas. O tamanho e a massa
+de uma arma pesada são grandes demais para que uma cria­
+tura de tamanho Pequeno possa usá-la de forma eficaz.
+Recarga. Devido ao tempo necessário para recarregar
+armas com esta propriedade, você pode disparar apenas
+uma munição ao usar uma ação, ação bônus ou reação,
+independentemente do número de ataques que seja capaz de
+realizar normalmente.
+Versátil. Armas com esta propriedade podem ser usadas
+com uma ou duas mãos. O valor de dano que aparece entre
+parênteses junto a esta propriedade indica o dano causado
+pela arma quando usada com as duas mãos na realização de
+um ataque corpo a corpo.
+I
+
+ARMAS IMPROVISADAS
+
+Às vezes, os personagens não estão com suas armas e
+realizam ataques com o que estiver à mão. Uma arma impro­
+visada é qualquer objeto que você possa empunhar em uma
+ou duas mãos, como um copo quebrado, uma perna de mesa,
+uma frigideira, uma roda de carroça ou um goblin morto.
+Muitas vezes, uma arma improvisada é semelhante a uma
+arma real e pode ser tratada como tal. Por exemplo, uma
+perna de mesa é semelhante a uma clava. A critério do DM,
+um personagem proficiente com uma arma pode usar um
+objeto semelhante como se fosse essa arma e aplicar seu
+bônus de proficiência.
+
+/
+
+PARTE 1 1 CAPÍTULO 5 1 EQUIPAMENTO
+
+147
+
+Um objeto que não guarde nenhuma semelhança com qual­
+quer arma causa ld4 pontos de dano (o DM define um tipo de
+dano apropriado para o objeto). Se um personagem usar uma
+arma de combate à distância para fazer um ataque corpo a
+corpo, ou arremessar uma arma de combate corpo a corpo
+que não foi feita para esse fim, também causará ld4 pontos
+de dano. Uma arma de arremesso improvisada possui um
+alcance normal de ataque de 6 metros e um alcance máximo
+de 18 metros.
+ARMAS DE PRATA
+Alguns monstros que possuem imunidade ou resistência a
+armas não mágicas são suscetíveis a armas de, prata. Por
+isso, aventureiros precavidos costumam investir algumas
+moedas extras para cobrir suas armas com uma camada de
+prata. Para folhear em prata uma única arma ou dez peças
+de munição, você gasta 100 PO. Este custo representa não
+apenas o preço da prata, mas o tempo e os conhecimentos
+necessários para banhar a arma sem torná-la menos eficaz.
+ARMAS ESPECIAIS
+
+Esta seção descreve armas que possuem regras especiais.
+Lança de Montaria. Você possui desvantagem ao usar uma
+lança de montaria para atacar um alvo a menos do que 1,5
+metro de distância de você. Além disso, uma lança de monta­
+ria requer duas mãos para ser empunhada quando você não
+estiver montado.
+PARTE l I CAPÍTULO 5 1 EQUIPAMENTO
+
+Rede. Uma criatura de tamanho Grande ou menor atingida
+por uma rede estará contida até ser libertada. A rede não
+tem efeito em criaturas que não possuem forma ou naquelas
+de tamanho Enorme ou maior. Uma criatura pode usar sua
+ação para fazer um teste de Força com CD 10, libertando-se
+ou libertando outra criatura dentro de seu alcance em caso
+de sucesso. Causar 5 pontos de dano cortante à rede (CA 10)
+também liberta a criatura sem machucá-la, destruindo a rede.
+Ao usar uma ação, ação bônus ou reação para atacar
+com uma rede, você pode realizar apenas um ataque,
+independentemente do número de ataques que você pode
+fazer normalmente.
+
+EQUIPAMENTO DE AVENTURA
+Esta seção descreve os itens que exigem regras especiais ou
+que necessitam de maiores explicações.
+Ácido. Com uma ação, você pode derramar o conteúdo
+deste frasco sobre uma criatura que esteja a até 1,5 metro de
+distância, ou arremessar o frasco a até 6 metros, quebran­
+do-o com o impacto. Em ambos os casos, faça um ataque
+à distância contra uma criatura ou objeto, tratando o ácido
+como uma arma improvisada. Com um acerto, o alvo sofre
+2d6 pontos de dano ácido.
+Água Benta. Com uma ação, você pode derramar o
+conteúdo deste frasco em uma criatura que esteja a até 1,5
+metro de distância ou arremessar o frasco a até 6 metros,
+
+Nome
+
+Custo
+
+Peso
+
+Pontos de Dano
+
+Propriedades
+
+Simples, Combate Corpo a Corpo
+Adaga
+
+2 PO
+
+ld4 perfurante
+
+0,5kg
+
+Azagaia
+
+5 PP
+
+ld6 perfurante
+
+l kg
+
+Arremesso (alcance 9/36)
+
+Bastão
+
+2 PP
+
+ld6 contundente
+
+2 kg
+
+Versátil (ld8)
+
+Clava
+
+l PP
+
+ld4 contundente
+
+l kg
+
+Leve
+
+Clava Grande
+
+2 PP
+
+ld8 contundente
+
+5kg
+
+Duas Mãos
+
+Foice
+
+l PO
+
+ld4 cortante
+
+l kg
+
+Lança
+
+l PO
+
+ld6 perfurante
+
+Machadinha
+
+5 PO
+
+ld6 cortante
+
+l kg
+
+Leve, arremesso (alcance 6/18)
+
+Martelo Leve
+
+2 PO
+
+ld4 contundente
+
+l kg
+
+Leve, arremesso (alcance 6/18)
+
+Maça
+
+5 PO
+
+ld6 contundente
+
+2kg
+
+1,5kg
+
+Acuidade, leve, arremesso (alcance 6/18)
+
+Leve
+Arremesso (alcance 6/18), versátil (ld8)
+
+Simples, Combate à Distância
+Arco Curto
+
+25 PO
+
+ld6 perfurante
+
+l kg
+
+Besta Leve
+
+25 PO
+
+ld8 perfurante
+
+2,5kg
+
+Dardo
+
+5 PC
+
+ld4 perfurante
+
+150 g
+
+Funda
+
+l PP
+
+ld4 contundente
+
+Munição (alcance 24/96), duas mãos
+Munição (alcance 24/96), recarga, duas mãos
+Acuidade, arremesso (alcance 6/18)
+Munição (alcance 9/36)
+
+Marciais, Combate Corpo a Corpo
+Alabarda
+Chicote
+
+20 PO
+2 PO
+
+ldl0 cortante
+
+3kg
+
+Pesada, extensão, duas mãos
+
+ld4 cortante
+
+1,5kg
+1,5kg
+
+Acuidade, leve
+
+l kg
+
+Acuidade, leve
+
+Acuidade, extensão
+
+Cimitarra
+
+25 PO
+
+ld6 cortante
+
+Espada Curta
+
+10 PO
+
+ld6 perfurante
+
+Espada Grande
+
+50 PO
+
+2d6 cortante
+
+3kg
+
+Espada Longa
+
+15 PO
+
+ld8 cortante
+
+1,5kg
+
+Glaive
+
+20 PO
+
+ldl0 cortante
+
+3kg
+
+Lança de Montaria
+
+10 PO
+
+ldl2 perfurante
+
+3kg
+
+Extensão, especial
+
+5 PO
+
+ldl0 perfurante
+
+9kg
+
+Pesada, extensão, duas mãos
+
+Maça Estrela
+
+15 PO
+
+ld8 perfurante
+
+2kg
+
+Machado de Batalha
+
+10 PO
+
+ld8 cortante
+
+Machado Grande
+
+30 PO
+
+ldl2 cortante
+
+Malho
+
+10 PO
+
+Mangual
+
+Lança Longa
+
+2kg
+
+Pesada, duas mãos
+Versátil (ldl0)
+Pesada, extensão, duas mãos
+
+Versátil (ldl0)
+
+3,5kg
+
+Pesada, duas mãos
+
+2d6 contundente
+
+5kg
+
+Pesada, duas mãos
+
+10 PO
+
+ld8 contundente
+
+l kg
+
+Martelo de Guerra
+
+15 PO
+
+ld8 contundente
+
+l kg
+
+Picareta de Guerra
+
+5 PO
+
+ld8 perfurante
+
+l kg
+
+Rapieira
+
+25 PO
+
+ld8 perfurante
+
+Tridente
+
+5 PO
+
+ld6 perfurante
+
+Arco Longo
+
+50 PO
+
+Besta de Mão
+
+75 PO
+
+Besta Pesada
+
+50 PO
+
+ldl0 perfurante
+
+�
+
+Versátil (ldl0)
+
+l kg
+
+Acuidade
+
+2kg
+
+Arremesso (alcance 6/18), versátil (ld8)
+
+ld8 perfurante
+
+l kg
+
+Munição (alcance 45/180), pesada, duas mãos
+
+ld6 perfurant�
+
+1,5kg
+
+Marciais, Combate à Distância
+
+Rede
+
+l PO
+10 PO
+
+l perfurante
+
+9kg
+
+Munição (alcance 9/36), leve, recarga
+Munição (alcance 30/120), pesada, recarga, duas mãos
+
+1,5kg
+
+Especial, arremesso (alcance l,5/4,5)
+
+0,5kg
+
+Munição (alcance 4,5/30), recarga
+
+PARTE l J CAPÍTULO 5 J EQUIPAMENTO
+
+r49
+
+Item
+1: Ábaco
+Ácido (frasco)
+Água benta (frasco)
+
+Custo
+
+Peso
+
+Item
+
+2PO
+
+1 kg
+
+jarro ou ânfora
+
+2PC
+
+2 kg
+
+25 PO
+
+soog
+
+Kit de escalada
+
+25 PO
+
+6 kg
+
+25 PO
+
+soog
+
+Kit de refeição
+
+2PP
+
+5 PP
+
+soog
+
+5 PO
+
+soog
+1 ,5 kg
+
+5 PP
+
+soog
+
+10 PO
+
+1 kg
+
+1 PO
+
+soog
+
+Kit de Curandeiro
+Lanterna
+
+25 PO
+
+soog
+
+Lanterna foca-facho
+Lanterna coberta
+
+5 PO
+Antitoxina (frasco)
+Apito sinalizador
+
+Livro
+
+50 PO
+
+Livro de Magia/Grimório
+
+5 PC
+
+Aríete portátil
+
+4 PO
+
+16 kg
+
+Armadilha de caça
+
+5 PO
+
+12,5 kg
+
+Balança de Mercador
+
+2PO
+
+2 kg
+
+5 PO
+
+1 ,5 kg
+
+5 PC
+
+Balde
+
+Lupa
+
+Peso
+
+5 PO
+
+1 kg
+
+25 PO
+
+2,5 kg
+
+50 PO
+
+1 ,5 kg
+
+1.000 PO
+
+soog
+
+100 PO
+
+Munição
+
+1 kg
+
+Flechas (20)
+
+1 PO
+
+soog
+
+Dardos de zarabatana ( 50)
+
+1 PO
+
+soog
+
+1 PO
+
+750 g
+1 ,5 kg
+
+5 PC
+
+3 ,5 kg
+
+Virotes de besta (20)
+
+Barril
+
+2PO
+
+30 kg
+
+Balas de funda (20)
+
+Baú
+
+5 PO
+
+12,5 kg
+
+Martelo
+
+4 PC
+1 PO
+
+Baliza (3 metros)
+
+750 g
+
+Bolsa para componentes
+
+25 PO
+
+1 kg
+
+Marreta
+
+2PO
+
+s kg
+
+Cadeado
+
+10 PO
+
+soog
+
+Mochila
+
+2PO
+
+2,5 kg
+
+Caixa para fogo
+
+5 PP
+
+soog
+
+Moringa/Cantil
+
+2PP 2,5 kg (cheio)
+
+Caneca
+
+2PC
+
+soog
+
+óleo (frasco)
+
+1 PP
+
+soog
+
+Caneta tinteiro
+
+2PC
+
+Pá
+
+2PO
+
+2,5 kg
+s kg
+
+Cera de lacre
+i Cesta
+Cobertor
+Corda de cânhamo (1 5 metros)
+Corda de seda (1 5 metros)
+
+5 PP
+4 PP
+
+l kg
+
+5 PP
+
+1 ,5 kg
+
+1 PO
+
+s kg
+
+10 PO
+
+2,5 kg
+
+Panela de ferro
+
+2PO
+
+Papel (uma folha)
+
+2PP
+
+Pé-de-cabra
+
+2PO
+
+2,5 kg
+
+Pedra de amolar
+
+1 PC
+
+soog
+
+Pergaminho (uma folha)
+
+1 PP
+
+Corrente (3 metros)
+
+5 PO
+
+5 kg
+
+Perfume (frasco)
+
+5 PO
+
+Equipamento de pesca
+
+1 PO
+
+2 kg
+
+Picareta de mineiro
+
+2PO
+
+5 kg
+
+Escada (3 metros)
+
+1 PP
+
+12,5 kg
+
+5 PC
+
+125 g
+
+Esferas de metal (saco com 1.000)
+
+1 PO
+
+1 kg
+
+Poção de cura
+
+50 PO
+
+250 g
+
+Espelho de aço
+
+5 PO
+
+250 g
+
+Rações (1 dia)
+
+5 PP
+
+1 kg
+
+Estacas de ferro (1O)
+
+1 PO
+
+2,5 kg
+
+Roldana e polias
+
+1 PO
+
+2,5 kg
+
+Estojo de virotes de besta
+
+1 PO
+
+soog
+
+Roupas (comuns)
+
+5 PP
+
+1 ,5 kg
+
+Roupas (fantasia)
+
+5 PO
+
+2 kg
+
+1 5 PO
+
+3k g
+2 kg
+
+Estojo de mapa ou pergaminho
+
+1 PO
+
+soog
+
+Estrepes (saco com 20)
+
+1 PO
+
+1 kg
+
+Sabão
+
+2PC
+
+Saco de dormir
+
+l PO
+
+3 ,5 kg
+
+1 kg
+
+Saca
+
+1 PC
+
+250 g
+
+sPq
+
+2 kg
+
+Símbolo Sagrado
+
+10 PO
+
+soog
+
+Amuleto
+
+5 PO
+
+soog
+
+Emblema
+
+5 PO
+
+20 PO
+
+Vara
+
+10 PO
+
+Cajado
+Varinha
+Ramo de visco
+
+1 PO
+1 PO
+
+1 kg
+
+2PO
+
+10 kg
+
+2 kg
+soog
+
+Tenda (para duas pessoas)
+Tinta (frasco de 30 mi)
+
+50 PO
+
+soog
+
+Tocha
+
+1 PC
+
+soog
+
+Túnica
+
+1 PO
+
+2 kg
+
+Vela
+
+l PC
+
+Garrafa de vidro
+
+2PO
+
+PARTE 1 j CAPÍTULO 5 1 EQUIPAMENTO
+
+5 PO
+1 PO
+
+5 PO
+
+1 PO
+
+-----
+
+Relicário
+Sino
+
+10 PO
+
+Frasco
+1 Giz (1 peça)
+
+g
+
+!
+
+Totem
+Varinha de teixo
+Fogo Alquímico (frasco)
+
+2PO
+
+soog
+
+10 PO
+
+Cajado de madeira
+
+Roupas (finas)
+
+1 ,5 kg
+
+Cristal
+Orbe
+
+Foco Druídico
+
+Pitão
+
+Roupas (viagem)
+
+Foco Arcano
+
+150
+
+Luneta
+
+Custo
+
+1 kg
+
+Veneno básico (frasco)
+
+1 PC
+2PO
+
+3k g
+
+10 PO
+
+100 PO
+
+1
+
+quebrando-o com o impacto. Em ambos os casos, faça um
+ataque à distância contra a criatura alyejada, tratando a água
+benta como uma arma improvisada. Se o alvo for um ínfero
+ou morto-vivo, sofrerá 2d6 pontos de dano radiante.
+Um clérigo ou paladino pode criar água benta através da
+realização de um ritual especial. O ritual leva 1 hora para ser
+realizado, usa pó de prata no valor de 25 PO e requer que o
+conjurador gaste um espaço de magia de 1° círculo.
+Algibeira. Uma algibeira de tecido ou de couro pode conter
+até 20 balas de funda ou 50 dardos de zarabatana, entre
+outras coisas. Uma algibeira compartimentada para guardar
+componentes de magia é chamada bolsa de componentes
+(descrita em outro item desta seção).
+Afiava. Uma aljava pode guardar até 20 flechas.
+Antitoxina. Uma criatura que beber o líquido deste frasco
+passa a ter vantagem nas salvaguardas contra veneno por
+1 hora. Este benefício não funciona para mortos-vivos
+ou constructos.
+Aríete Portátil. Você pode usar um aríete portátil para
+quebrar portas. Ao fazer isso, ganha um bônus de +4 no teste
+de Força. Outro personagem pode ajudar você a usar o aríete,
+dando-lhe vantagem neste teste.
+Armadilha de Caça. Ao usar sua ação para preparar uma
+armadilha, você forma um anel com dentes de aço que se
+fecham quando uma criatura pisa em uma placa de pressão
+no centro. A armadilha é presa por uma corrente pesada a
+um objeto imóvel, como uma árvore ou um piquete encravado
+no chão. A criatura que pisar na placa deve ser bem-sucedida
+em uma salvaguarda de Destreza com CD 13 ou sofrerá ld4
+pontos de dano perfurante e cessará seu movimento. Daí
+em diante, até que a criatura se liberte da armadilha, seu
+movimento ficará limitado pelo comprimento da corrente
+(normalmente 3 metros). Uma criatura pode usar uma ação
+em um teste de Força com CD 13 para se libertar ou para
+libertar outra criatura dentro do alcance, em caso de sucesso.
+Cada falha no teste causa 1 ponto de dano perfurante na cria­
+tura aprisionada.
+Balança de Mercador. Uma balança de mercador inclui
+uma pequena balança, pratos e um sortimento de pesos de
+até 1 quilo. Com ela, você pode medir o peso exato de peque­
+nos objetos, como metais preciosos brutos ou bens de troca,
+de forma a ajudar a determinar seu valor.
+Bolsa para Componentes. Trata-se de uma pequena bolsa
+de couro à prova d' água, atrelada ao cinto, que possui com­
+partimentos para armazenar todos os componentes materiais
+e demais itens especiais que você precisa para conjurar
+magias, exceto os componentes que têm um custo específico
+(como indicado na descrição das magias).
+Cadeado. Uma chave é fornecida com a fechadura. Sem
+a chave, uma criatura proficiente com ferramentas de
+ladrão pode abrir a fechadura com um teste bem-sucedido
+de Destreza com CD 15. O DM pode decidir que fecha­
+duras melhores (CD acima de 15) estão disponíveis por
+!
+preços mais altos.
+Caixa para Fogo. Este pequeno recipiente contém sílica,
+pederneira e uma acendalha (geralmente um pano seco
+embebido em óleo) usados para atear fogo. Usar este item
+para acender uma tocha - ou qualquer coisa exposta com
+combustível abundante - requer uma ação. Acender outros
+tipos de fogo leva 1 minuto.
+Corda. Seja ela feita de cânhamo ou de seda, uma corda
+tem 2 pontos de vida e pode ser rompida com um teste de
+Força com CD 17.
+Corrente. Uma corrente tem 10 pontos de vida.
+Ela pode ser rompida com um teste bem-sucedido de
+Força com CD 20.
+
+Equipamento de Pesca. Este conjunto inclui uma vara de
+madeira, linha de seda, boias de cortiça, anzóis de aço, chum­
+badas, iscas de veludo e puçás.
+Esferas de Metal. Com uma ação, você pode espalhar
+estas minúsculas bolas de metal numa área plana e quadrada
+de até 3 metros. Uma criatura que se mova através da área
+deve ser bem-sucedida em uma salvaguarda de Destreza
+com CD 10 ou cairá. Uma criatura que se mova através da
+área com metade de seu deslocamento não precisa realizar
+a salvaguarda.
+Estojo de Virotes de Besta. Este estojo de madeira pode
+guardar até vinte virotes de besta.
+Estojo de Mapa ou Pergaminho. Este estojo de couro
+cilíndrico pode guardar até dez folhas de papel ou cinco
+folhas de pergaminho enroladas.
+Estrepes. Com uma ação, você pode espalhar um saco de
+estrepes em uma área (quadrado) de 1,5 metro. Qualquer
+criatura que entre nessa área deve ser bem-sucedida em
+uma salvaguarda de Destreza com CD 15 ou encerrará seu
+movimento neste turno, sofrendo 1 ponto de dano perfurante.
+Receber este dano reduz o deslocamento da criatura em 3
+metros até que ela recupere pelo menos 1 ponto de vida. Uma
+criatura que se mova através da área com metade do seu des­
+locamento não precisa realizar a salvaguarda.
+Foco Arcano. Um foco arcano é um item especial - um
+orbe, um cristal, um cajado finamente construído, um pedaço
+de madeira do tamanho de uma varinha ou item semelhante
+- destinado a canalizar o poder de magias arcanas. Um
+bruxo, feiticeiro ou mago pode usar esse item como foco de
+conjuração, conforme descrito no capítulo 10, "Conjuração".
+Foco Druídico. Um foco druídico pode ser um ramo de
+visco ou azevinho, uma varinha ou cetro feito de teixo ou
+outra madeira especial, um cajado retirado inteiramente de
+uma árvore viva ou um objeto totêmico que possua penas,
+KITS DE EQUIPAMENTO
+
+O equipamento inicial que sua classe lhe confere inclui um kit útil
+de itens de aventureiro. O conteúdo desses kits está listado aqui.
+Se você optou por comprar seu equipamento inicial, pode adquirir
+um kit pelo preço listado, o que pode sair mais barato do que
+comprar os itens separadamente.
+Kit de Artista (40 PO). Inclui uma mochila, um saco de dormir, 2
+fantasias, S velas, 5 dias de rações, um cantil e um kit de disfarce.
+Kit de Assaltante (16 PO). Este conjunto inclui uma mochila, um
+saco com 1.000 esferas de metal, 3 metros de fio, um sino, 5 velas,
+um pé de cabra, um martelo, 10 pitões, uma lanterna coberta, 2
+frascos de óleo, 5 dias de rações, uma caixa para fogo e um cantil.
+O conjunto também contém 50 metros de corda de cânhamo
+amarrados ao lado da mochila.
+Kit de Aventureiro (10 PO). Inclui uma mochila, um saco de
+dormir, um estojo de refeição, uma caixa para fogo, 10 tochas, 10
+dias de rações e um cantil. O conjunto também contém 15 metros
+de corda de cânhamo amarrados ao lado da mochila.
+Kit de Erudito (40 PO). Inclui uma mochila, um livro de história,
+um frasco de tinta, uma caneta tinteiro, 10 folhas de pergaminho,
+um saco de areia pequeno e uma faca pequena.
+Kit de Explorador de Masmorras (12 PO). Inclui uma mochila,
+um pé-de-cabra, um martelo, 10 pitões, 10 tochas, uma caixa para
+fogo, 10 dias de rações e um cantil. O conjunto também contém 15
+metros de corda de cânhamo amarrados ao lado da mochila.
+Kit de Diplomata (39 PO). Inclui um baú, 2 estojos para mapas e
+pergaminhos, um conjunto de roupas finas, uma garrafa de tinta,
+uma caneta tinteiro, uma lâmpada, 2 frascos de óleo, 5 folhas de
+papel, um frasco de perfume, cera para lacre e sabão.
+Kit de Sacerdote (19 PO). Inclui uma mochila, um cobertor, 10
+velas, uma caixa de fogo, uma caixa de esmolas, 2 blocos de incen­
+so, um incensário, vestimentas, 2 dias de rações e um cantil.
+
+PARTE 1 1 CAPÍTULO 5
+
+J
+
+EQUIPAMENTO
+
+151
+
+peles, ossos e dentes de animais sagrados incorporados. Um
+druida pode usar esse objeto como foco de conjuração, con­
+forme descrito no capítulo 10.
+Fogo Alquímico. Este fluido pegajoso e adesivo inflama
+em contato com o ar. Com uma ação, você pode arremessar
+este frasco a até 6 metros de distância, quebrando-o com o
+impacto. Faça um ataque à distância contra uma criatura ou
+objeto, tratando o fogo alquímico como uma arma improvi­
+sada. Com um acerto, o alvo sofre ld4 pontos de dano ígneo
+no início de cada um dos seus turnos, até encerrar o processo
+usando sua ação para realizar um teste de Destreza com CD
+10 e, com um sucesso, extinguir as chamas.
+Grilhões. Estas contenções de metal podem prender uma
+criatura Pequena ou Média. Escapar de grilhões requer um
+teste bem-sucedido de Destreza com CD 20. Quebrá-los
+requer um teste bem-sucedido de Força com CD 20. Cada
+conjunto de grilhões vem com uma chave. Sem ela, uma cria­
+tura proficiente com ferramentas de ladrão pode destravar os
+grilhões sendo bem-sucedida em um teste de Destreza com
+CD 15. Os grilhões têm 15 pontos de vida.
+Kit de Curandeiro. Trata-se de uma bolsa de couro
+contendo ataduras, pomadas e talas. O conjunto,dura dez
+aplicações. Com uma ação, você pode usá-lo uma vez para
+estabilizar uma criatura com O pontos de vida, sem a necessi­
+dade de fazer um teste de Sabedoria (Medicina).
+Kit de Escalada. Um conjunto de escalada)nclui pitões
+especiais, biqueiras para botas, luvas e um cinto de
+segurança. Você pode usar este kit com uma ação para anco­
+rar-se; ao fazê-lo, você não pode cair nem subir mais do que
+7,5 metros a partir do ponto de ancoragem sem desfazê-la.
+Kit para Refeição. Este recipiente de lata contém uma
+caneca e talheres simples. O recipiente e a tampa se fecham
+com um encaixe, sendo possível usar um lado como panela
+para cozinhar e o outro como prato ou tigela rasa.
+Lanterna. Uma lanterna (ou lamparina) projeta luz plena
+em um raio de 9 metros e cria apenumbra por mais 9 metros.
+Uma vez acesa, ela queima por 6 horas, consumindo um
+frasco (500 mililitros) de óleo.
+PARTE l
+
+I
+
+CAPÍTULO 5
+
+!
+
+EQUIPAMENTO
+
+Lanterna Foca-Facho. Uma lanterna focada, que projeta
+um facho de luz plena em um cone de 18 metros e meia-luz
+por mais 18 metros. Uma vez acesa, ela queima por 6 horas,
+consumindo um frasco (500 mililitros) de óleo.
+Lanterna Coberta. Uma lanterna coberta projeta luz plena
+em um raio de 9 metros e meia-luz por mais 9 metros. Uma
+vez acesa, ela queima por 6 horas, consumindo um frasco
+(500 mililitros) de óleo. Com uma ação, você pode baixar a
+capa da lanterna, reduzindo a luz para meia-luz em um raio
+de 1,5 metro.
+Livro. Um livro pode conter poemas, relatos históricos,
+informações referentes a um determinado campo de conhe­
+cimento, diagramas e notas sobre engenhocas gnômicas ou
+versar sobre qualquer outras coisa que possa ser represen­
+tada usando texto ou imagens. Um livro que contém magias
+é um grimório ou simplesmente um livro de magias (descrito
+adiante nesta seção).
+Livro de Magias. Essencial para magos, um livro de
+magias é um tomo encadernado em couro com 100 páginas
+de velino em branco, adequadas para a inscrição de magias.
+Luneta. Objetos vistos através de uma luneta tem seu tama­
+nho ampliado em até duas vezes.
+Lupa. Esta lente permite um olhar mais próximo sobre
+pequenos objetos. Ela também é útil como um substituto para
+a pederneira e isqueiro ao atear fogo. Acender fogo com uma
+lupa requer uma luz brilhante como a do sol para fazer foco,
+um material inflamável para queimar e cerca de 5 minutos
+para criar a chama. Uma lupa concede vantagem em qual­
+quer teste de atributo feito para avaliar ou inspecionar um
+item que seja pequeno ou muito detalhado.
+
+Óleo. Óleo costuma ser vendido em frascos de argila de
+500 mililitros. Com uma ação, você pode derramar o con­
+teúdo deste frasco em uma criatura que esteja a até 1,5 metro
+de distância ou arremessar o frasco a até 6 metros, quebran­
+do-o com o impacto. Faça um ataque à distância contra uma
+criatura ou objeto, tratando o óleo como uma arma impro­
+visada. Com um acerto, o alvo ficará coberto de óleo. Caso
+ele receba qualquer dano ígneo antes de o óleo secar (após 1
+minuto), ele sofre 5 pontos de dano ígneo devido ao óleo fer­
+vente. Você também pode despejar um frasco de óleo no chão
+para cobrir uma área de 1,5 metro, desde que a superfície seja
+nivelada. Se incendiado, o óleo queimará durante 2 rodadas e
+causará 5 pontos de dano ígneo a qualquer criatura que entre
+na área ou termine seu turno dentro dela. Uma criatura pode
+receber este dano apenas uma vez durante o seu turno.
+Pé-de-Cabra. Usar um pé-de-cabra concede vantagem em
+testes de Força em que uma alavanca possa ser aplicada.
+Poção de Cura. Um personagem que beba o fluido mágico
+vermelho deste frasco recupera 2d4 +2 pontos de vida. Beber
+ou administrar uma poção requer uma ação.
+Rações. Rações consistem em alimentos secos adequados
+para viagens longas, incluindo charque, frutas secas, bisc0ito
+seco e nozes.
+Roldana e Polias. Um conjunto de polias com um cabo que
+as atravessa e um gancho para se prender a objetos, pérmi­
+tindo que se erga até quatro vezes o peso que normallllente
+poderia ser levantado.
+Símbolo Sagrado. Um símbolo sagrado é uma repre­
+sentação de um deus ou panteão. Ele pode ser um amuleto
+representando o símbolo de uma divindade, o mesmo
+símbolo cuidadosamente gravado ou entalhado como um
+emblema em um escudo, ou uma pequena caixa contendo um
+fragmento de uma relíquia sagrada. Um clérigo ou paladino
+pode usar um símbolo sagrado como foco de conjuração,
+conforme descrito no capítulo 10. Para usar o símbolo dessa
+forma, o conjurador deve portá-lo de forma visível ou preso
+em um escudo.
+
+Tenda. Um abrigo de lona simples e portátil para até
+duas pessoas.
+Tocha. Uma tocha queima durante 1 hora, projetando luz
+plena em um raio de 6 metros e meia-luz por mais 6 metros.
+Se você fizer um ataque corpo a corpo com uma tocha acesa
+e acertar, ela causa 1 ponto de dano ígneo.
+Vela. Durante 1 hora, uma vela projeta luz plena em um
+raio de 1,5 metro e meia-luz por mais 1,5.
+Veneno, Básico. Você pode usar o veneno deste frasco
+para revestir uma arma cortante ou perfurante ou até três
+peças de munição. Aplicar o veneno demora uma ação. Uma
+criatura atingida por uma arma ou munição envenenada
+deve ser bem-sucedida em uma salvaguarda de Constituição
+com CD 10 ou sofrerá ld4 pontos de dano venenoso. Uma
+vez aplicado, o veneno mantém seu efeito durante 1 minuto
+antes de secar.
+CAPACIDADE DOS RECIPIENTES
+
+Recipiente
+
+Capacidade
+
+Algibeira
+
+6 litros ou 3 quilos de equipamento
+
+Balde
+
+12 litros de líquido ou 0,012 metro3 de sólido
+
+Barril
+
+160 litros de líquido ou 0,16 metro3 de sólido
+
+Baú
+
+360 litros ou 150 quilos de equipamento
+
+Caneca
+
+500 mililitros de líquido
+
+Cesto
+
+60 litros ou 20 quilos de equipamento
+
+Frasco
+
+150 mililitros de líquido
+
+Garrafa
+
+750 mililitros de líquido
+
+Jarro ou ânfora
+
+4 litros de líquido
+
+Mochila>'<
+
+30 litros ou 15 quilos de equipamento
+
+Moringa/Cantil
+
+2 litros de líquido
+
+Panela de Ferro
+
+4 litros de líquido
+
+Saca
+
+30 litros ou 15 quilos de equipamento
+
+,., Você também pode amarrar outros itens, como um saco de dormir
+ou um rolo de corda, do lado de fora de uma mochila.
+
+PARTE 1 1 CAPÍTULO 5 1 EQUIPAMENTO
+
+153
+
+FERRAMENTAS
+Uma ferramenta ajuda-o a fa�er algo impossível sem ela,
+como criar ou reparar um item, forjar um documento ou
+arrombar uma fechadura. Sua raça, classe, antecedente ou
+talentos conferem-lhe proficiência com algumas ferramentas,
+o que lhe permite adicionar seu bônus de proficiência a qual­
+quer teste de atributo que as utilize. O uso de ferramentas
+não está vinculado a um atributo único, já que a proficiência
+com uma ferramenta representa um conhecimento amplo do
+seu uso. Por exemplo, o DM pode pedir-lhe que realize um
+teste de Destreza para esculpir um detalhe fino com suas fer­
+ramentas de carpinteiro, ou um teste de Força para trabalhar
+uma madeira particularmente dura.
+FERRAMENTAS
+Item
+
+Custo
+
+Peso
+
+Ferramentas de Artesão
+Suprimentos de alquimista
+
+50PO
+
+4 kg
+
+Suprimentos de calígrafo
+
+10PO
+
+2,5 kg
+
+Ferramentas de carpinteiro
+
+8PO
+
+3 kg
+
+Ferramentas de cartógrafo
+
+15PO
+
+Ferramentas/suprimentos de cervejeiro
+
+20PO
+
+3k g
+4,5 kg
+
+Ferramentas do coureiro
+
+5 PO
+
+Ferramentas/utensílios de cozinheiro
+
+l PO
+
+Ferramentas de entalhador
+
+l PO
+
+Ferramentas de ferreiro
+
+20PO
+
+2,5 kg
+4 kg
+2,5 kg
+4 kg
+
+Ferramentas de funileiro
+
+50PO
+
+5 kg
+
+Ferramentas de joalheiro
+
+25PO
+
+l kg
+
+Ferramentas de oleiro
+
+10PO
+
+Ferramentas de pedreiro/construtor
+
+10PO
+
+1,5 kg
+4 kg
+
+Ferramentas/suprimentos de pintor
+
+10PO
+
+2,5 kg
+
+Ferramentas de sapateiro
+
+5PO
+
+2,5 kg
+
+Ferramentas de tecelão
+
+l PO
+
+2,5 kg
+
+Ferramentas de vidreiro
+
+30PO
+
+2,5 kg
+
+25 PO
+
+0,5 kg
+
+Ferramentas de ladrão
+Ferramentas de navegador
+
+25 PO
+
+l kg
+
+Kit de disfarce
+
+25PO
+
+1,5 kg
+
+Kit de falsificação
+
+15PO
+
+2,5 kg
+
+t<it dejogos
+Conjunto de dados
+
+l PP
+
+Conjunto de Xadrez-do-Dragão
+
+l PO
+
+Baralho
+Conjunto do Jogo dos Três Dragões
+Kit de herbalismo
+Kit de veneno
+
+0,25 kg
+
+5PP
+l PO
+5PÓ
+
+1,5 kg
+
+50PO
+
+l kg
+
+Instrumento musical
+Alaúde
+
+l kg
+0,5 kg
+
+Flauta de Pan
+
+12PO
+
+l kg
+
+Gaita de foles
+
+30PO
+
+3 kg
+
+Lira
+
+30PO
+
+l kg
+
+Oboé
+
+2PO
+
+0,5 kg
+
+Tambor
+
+6PO
+
+1,5 kg
+
+Trombeta
+
+3PO
+
+l kg
+
+Violino
+
+30PO
+
+0,5 kg
+
+Xilofone
+
+25PO
+
+5 kg
+
+"
+
+"
+
+Veículos (terra ou água)
+;', Veja a seção "Montarias e Veículos".
+
+154
+
+35PO
+
+'2 PO
+
+Flauta
+
+PARTE l I CAPÍTULO 5 1 EQUIPAMENTO
+
+Ferramentas de Artesão. Estas ferramentas especiais
+incluem os itens necessários para o exercício de um ofício ou
+comércio. A tabela mostra exemplos dos tipos mais comuns
+de ferramentas, cada qual fornecendo itens relacionados
+a um único ofício. Proficiência com um conjunto de ferra­
+mentas de artesão permite que você adicione seu bônus de
+proficiência a qualquer teste de atributo que empregue as
+ferramentas do seu ofício. Cada tipo de ferramenta de artesão
+requer uma proficiência própria.
+Ferramentas de Ladrão. Este conjunto de ferramentas
+inclui uma lima pequena, um conjunto de gazuas, um
+pequeno espelho montado em um cabo de metal, um conjunto
+de tesouras de lâminas estreitas e um par de alicates. Profi­
+ciência com essas ferramentas permite que você adicione seu
+bônus de proficiência a qualquer teste de atributo feito para
+desarmar armadilhas ou abrir fechaduras.
+Ferramentas de Navegador. Este conjunto de instrumen­
+tos é utilizado para navegação no mar. Proficiência com
+ferramentas de navegador permite que você trace o curso de
+um navio e siga cartas de navegação. Além disso, estas ferra­
+mentas permitem que você adicione seu bônus de proficiência
+a testes de atributos usados para não se perder no mar.
+Instrumento Musical. A maioria dos tipos de instrumentos
+musicais mais comuns aparecem na tabela como exemplos.
+Se você tiver proficiência com determinado instrumento
+musical, pode adicionar seu bônus de proficiência a qualquer
+teste de atributo usado para tocar música com o instrumento.
+Um bardo pode usar um instrumento musical como foco de
+conjuração, conforme descrito no capítulo 10. Cada tipo de
+instrumento musical requer uma proficiência própria.
+Kit de Disfarce. Esta bolsa de cosméticos, tintura de
+cabelo e pequenos adereços permite que você crie disfarces
+que alteram a sua aparência. A proficiência com este kit
+permite a você adicionar seu bônus de proficiência a qualquer
+teste de atributo usado na criação de um disfarce visual.
+Kit de Falsificação. Esta caixa pequena contém uma
+variedade de papéis e pergaminhos, penas e tintas, selos e
+cera de lacre, folhas de ouro e prata e outros suprimentos
+necessários para a criação de falsificações convincentes de
+documentos. A proficiência com este kit permite que você adi­
+cione seu bônus de proficiência a qualquer teste de atributo
+usado na falsificação de um documento.
+Kit deJogos. Este item engloba uma vasta gama de peças
+de jogo, incluindo dados e um baralho (para jogos, como o
+Jogo dos Três Dragões). Alguns exemplos comuns aparecem
+na tabela Ferramentas, mas existem outros tipos de jogos. Se
+você for proficiente com um determinado jogo, pode adicionar
+seu bônus de proficiência aos testes de atributo usados para
+se jogar com este conjunto. Cada tipo de jogo requer uma
+proficiência própria.
+Kit de Herbalismo. Este kit contém uma variedade de ins­
+trumentos como tesouras, almofariz e pilão, além de bolsas
+usadas na criação de remédios e poções. Proficiência com
+este conjunto permite que você adicione seu bônus de profi­
+ciência a qualquer teste de atributo usado na identificação ou
+aplicação de ervas. Além disso, é necessária a proficiência
+com este kit para a criação de antitoxinas e poções de cura.
+Kit de Veneno. Um kit de veneno inclui os frascos, pro­
+dutos químicos e outros equipamentos necessários para a
+criação de venenos. Proficiência com este kit permite que
+você adicione seu bônus de proficiência a qualquer teste de
+atributo usado na criação ou uso de venenos.
+
+MONTARIAS E VEÍCULOS
+Uma boa montaria pode ajudá-lo a se mover mais rapida­
+mente através dos ermos, mas sua principal finalidade é
+carregar equipamentos, o que de outra forma iria atrasá-lo. A
+tabela Montarias e Outros Animais mostra o deslocamento e
+a capacidade de carga base de cada animal.
+Um animal puxando uma carruagem, carroça, biga, trenó
+ou vagão pode mover um peso até cinco vezes maior que
+sua capacidade de carga básica, incluindo o peso do veículo.
+Se vários animais puxarem o mesmo veículo, eles poderão
+somar sua capacidade de carga.
+Outras montarias não listadas aqui estão disponíveis em
+mundos de jogos de fantasia, mas são raras e normalmente
+não estão disponíveis para compra. Elas incluem montarias
+voadoras (pégasos, grifos, hipogrifos e animais semelhantes)
+e até mesmo montarias aquáticas (cavalos marinhos gigantes,
+por exemplo). Adquirir tais montarias muitas vezes significa
+conseguir um ovo e cuidar da criatura, fazer um pacto com
+uma entidade poderosa ou negociar com a própria montaria.
+Armadura de Montaria. A armadura de montaria é pro­
+jetada para proteger a cabeça, pescoço, peito e corpo de um
+animal de montaria. Qualquer tipo de armadura mostrada
+na tabela Armaduras pode ser comprada como uma armJ­
+dura de montaria. O custo é quatro vezes o listado ali, e o
+peso, o dobro.
+Sela. Uma sela militar mantém o cavaleiro no lugar, ajudan­
+do-o a ficar sentado em uma montaria ativa em batalha.. Ela
+lhe dá vantagem em qualquer teste que fizer para permanecer
+montado. Uma sela exótica é necessária para cavalgar qual­
+quer montaria aquática ou voadora.
+Proficiência com Veículo. Se você possui proficiência
+com um determinado tipo de veículo (terrestre ou aquático),
+pode adicionar seu bônus de proficiência a qualquer teste
+que fizer para controlar esse tipo de veículo em circunstân­
+cias adversas.
+Embarcações a Remo. Barcas e botes a remo são utiliza­
+dos em rios e lagos. Se estiver seguindo rio abaixo, adicione
+o deslocamento da corrente (tipicamente 4,5 quilômetros
+por hora) ao deslocamento do veículo. Estes veículos não
+PARTE 1 1 CAPÍTULO 5 1 EQ,UIPAJ\f:E1 _TO
+
+155
+
+podem ser remados contra qualquer corrente significativa,
+mas podem ser puxados rio acima por .animais nas margens.
+Um barco a remo pesa 45 quilos, no caso de os aventureiros
+precisarem carregá-lo em terra firme.
+MONTARIAS E OUTROS ANIMAIS
+Item
+Burro ou Mula
+Camelo
+Cavalo de Carga
+Cavalo de Montaria
+Cavalo de Guerra
+Elefante
+Mastim
+Pônei
+
+Custo
+8 PO
+50PO
+50PO
+75PO
+400PO
+200PO
+25PO
+30PO
+
+Deslocamento
+12m
+15m
+12m
+12m
+18 m
+12m
+12m
+18 m
+
+Capacidade
+de Carga
+190 kg
+220 kg
+250 kg
+220 kg
+250 kg
+600 kg
+90 kg
+110 kg
+
+ARREIOS, APETRECHOS E VEÍCULOS DE TRAÇÃO
+Item
+Alforjes
+Alimentação (por dia)
+Armadura de Montaria
+Biga
+Carroça
+Carruagem
+Estábulo (por dia)
+Rédea e freio
+Sela
+Compacta
+Exótica
+Militar
+Viagem
+Trenó
+Vagão
+
+Custo
+4PO
+5PC
+x4
+250PO
+15PO
+100PO
+5PP
+2PO
+
+Peso
+4 kg
+5 kg
+x2
+45 kg
+90 kg
+272 kg
+
+5PO
+60PO
+20PO
+10PO
+20PO
+35PO
+
+7 kg
+20 kg
+13 kg
+12,5 kg
+136 kg
+181 kg
+
+Custo
+50PO
+3.000PO
+10.000PO
+30.000PO
+25.000PO
+10.000PO
+
+Deslocamento
+2,4 km/h
+1,6 km/h
+4,8 km/h
+6,5 km/h
+4 km/h
+3,2 km/h
+
+0,5 kg
+
+VEÍCULOS AQUÁTICOS
+Item
+Barco a remo
+Barco de quilha
+Dracar
+Galera
+Navio de guerra
+Veleiro
+
+BENS COMERCIAIS
+A maioria das riquezas não é expressa em moedas. Ela é
+medida em gado, grãos, terra, direitos sobre cobrança âe
+impostos ou direitos sobre recursos (como uma mina ou
+uma floresta).
+As guildas, os nobres e a realeza regulamentam o comér­
+cio. Às empresas autorizadas são concedidos os direitos de
+conduzir o comércio ao longo de certas rotas, enviar navios
+mercantes para vários portos ou comprar e vender mercado­
+rias específicas. As guildas definem preços para os produtos
+ou serviços que controlam e determinam quem pode ou não
+oferecer os bens e serviços. Os comerciantes comumente
+trocam mercadorias sem o uso de moeda. A tabela de Bens
+Comerciais mostra o valor dos produtos geralmente trocados.
+
+BENS COMERCIAIS
+Custo
+l PC
+2PC
+5PP
+l PP
+5PP
+l PO
+2PO
+3PO
+5PO
+10PO
+15PO
+50PO
+500PO
+
+Bens
+0,5 kg de trigo
+0,5 kg de farinha ou um frango
+0,5 kg de sal
+0,5 kg de ferro ou l m 2 de lona
+0,5 kg de cobre ou l m 2 de tecido de algodão
+0,5 kg de gengibre ou um bode
+0,5 kg de canela ou pimenta ou uma ovelha
+0,5 kg de cravo ou um porco
+0,5 kg de prata ou l m 2 de tecido de linho 10PO
+l m 2 de seda ou uma vaca
+0,5 kg de açafrão ou um boi
+0,5 kg de ouro
+0,5 kg de platina
+
+DESPESAS
+Quando não estão descendo até as profundezas da terra,
+explorando ruínas em busca de tesouros perdidos ou
+iniciando uma guerra contra as trevas crescentes, os aven­
+tureiros enfrentam realidades mais mundanas. Mesmo em
+um mundo fantástico, as pessoas possuem necessidades
+básicas, tais como abrigo, sustento e vestuário. Essas coisas
+custam dinheiro, embora alguns estilos de vida custem mais
+do que outros.
+
+DESPESAS DE ESTILO DE VIDA
+As despesas de estilo de vida são um modo simples de cal­
+cular o custo de vida em um mundo de fantasia. Elas cobrem
+as acomodações, comida, bebida e todas as demais neces­
+sidades de um aventureiro. Além disso, cobrem o custo de
+manutenção do seu equipamento, para que você esteja pronto
+quando a próxima aventura chamá-lo.
+No início de cada semana ou mês (o que você preferir),
+escolha um estilo de vida na tabela Despesas e pague seu
+preço. Os preços são listados por dia, então, se você deseja
+calcular o custo de um estilo de vida por um período de
+trinta dias, multiplique o preço listado por 30. Um estilo
+de vida pode ser mantido por toda a carreira do seu perso­
+nagem ou pode mudar de tempos em tempos, conforme os
+fundos disponíveis.
+Seu estilo de vida pode ter consequências. A manutenção
+de um estilo de vida abastado pode ajudá-lo a fazer contatos
+com os ricos e poderosos, mas, por outro lado, atrair a aten­
+ção de ladrões. Da mesma forma, viver frugalmente pode
+ajudar a evitar criminosos, mas é improvável que o ajude a
+fazer conexões entre os poderosos.
+DESPESAS DE ESTILO DE VIDA
+Estilo
+Miserável
+Desvalido
+Pobre
+Modesto
+Confortável
+Abastado
+Aristocrático
+
+Preço por Dia
+l PP
+2PP
+l PO
+2PO
+4PO
+10PO mínimo
+
+PARTE 1 1 CAPÍTULO 5 1 EQUIPAMENTO
+
+157
+
+�
+
+Miserável. Você vive em condições desumanas. Sem local
+para chamar de lar, você consegue abrigo quando pode,
+escondendo-se em celeiros, aconchegando-se em caixotes
+velhos e contando com as boas graças de pessoas em melhor
+situação que você. Um estilo de vida miserável apresenta
+perigos abundantes. A violência, a doença e a fome seguem-no
+para onde quer que você vá. Outras pessoas miseráveis cobi­
+çarão sua armadura, armas e equipamentos de aventureiro,
+que representam uma fortuna para os padrões deles. Você
+está abaixo da maioria das pessoas.
+Desvalido. Você vive em um estábulo úmido, numa cabana
+de chão de lama fora da cidade ou numa pensão infestada de
+insetos na pior vizinhança. Você tem abrigo contra os elemen­
+tos, mas vive em um ambiente desesperado e, muitas vezes,
+violento, em locais repletos de doença, fome e desgraça. Você
+está abaixo da maioria das pessoas e possui poucas garantias
+legais. A maioria das pessoas neste nível de estilo de vida
+sofreu algum revés terrível. Elas podem estar perturbadas,
+marcadas como degredados ou sofrer de alguma doença.
+Pobre. Uma vida pobre significa ficar sem os confortos
+disponíveis em uma comunidade estável. Comida e aloja­
+mentos simples, roupas surradas e condições imprevisíveis
+garantem a subsistência, embora se trate, provavelmente, de
+uma experiência desagradável. Suas acomodações podem
+ficar no quarto de um cortiço ou na sala comunal acima de
+uma taverna. Você se beneficia de algumas garantias legais,
+mas ainda tem que lidar com a violência, o crime e a doença.
+As pessoas com este estilo de vida tendem a ser trabalhadores
+não qualificados, vendedores ambulantes, mascates, ladrões,
+mercenários e outros tipos sem reputação.
+Modesto. Um estilo de vida modesto lhe mantém fora dos
+bairros miseráveis e garante a segurança do seu equipamento.
+Você vive em uma parte mais antiga da cidade, alugando um
+quarto em uma pensão, estalagem ou templo. Você não passa
+fome ou sede, e suas condições de vida são limpas e simples.
+Pessoas comuns que vivem estilos de vida modestos incluem
+soldados com suas famílias, trabalhadores, estudantes, sacer­
+dotes, magos iniciantes e outros.
+Confortável. Escolher um estilo de vida confortável sig­
+nifica que você pode pagar por uma roupa melhor e pode
+facilmente manter o seu equipamento. Você mora em um
+pequeno chalé em um bairro de classe média ou em um
+quarto privativo em uma ótima estalagem. Você se associa
+com mercadores, hábeis comerciantes e oficiais militares.
+Abastado. A escolha de um estilo de vida abastado significa
+viver uma vida de luxo, mesmo que você não tenha alcan­
+çado o status social associado ao bom e velho dinheiro da
+nobreza ou realeza. Você vive um estilo de vida comparável
+ao de um comerciante bem-sucedido, um servo favorecido
+da realeza ou um proprietário de terras. Você terh uma resi­
+dência respeitável, geralmente uma casa espaçosa em uma
+parte boa da cidade ou uma suíte confortável em uma ótima
+estalagem. Você provavelmente conta com uma pequena
+I
+equipe de servos.
+Aristocrático. Você vive uma vida de abundância e con­
+forto, movendo-se em círculos habitados pelas pessoas mais
+poderosas da comunidade. Você tem uma residência exce­
+lente, talvez em uma moradia na parte mais bonita da cidade
+ou em quartos na melhor estalagem. Você janta nos melhores
+restaurantes, contrata o alfaiate mais hábil e dentro da moda,
+e possui servos atendendo a todas as suas necessidades. Você
+recebe convites para as reuniões sociais dos ricos e podero­
+sos e passa as noites na companhia de políticos, líderes de
+guilda, sumos sacerdotes e nobres. Você também deve lidar
+com os mais altos níveis de dissimulação e traição. Quanto
+
+PARTE 1 1 CAPÍTULO 5 1 EQUIPAMENTO
+
+mais rico, maior a chance de se envolver em intrigas políticas,
+seja como um peão ou participante direto.
+
+COMIDA, BEBIDA E HOSPEDAGEM
+A tabela Comida, Bebida e Hospedagem fornece preços para
+itens de alimentação individuais e alojamento para uma única
+noite. Estes preços estão incluídos no seu total de despesas
+de estilo de vida.
+COMIDA, BEBIDA E HOSPEDAGEM
+Item
+
+Custo
+
+Alojamento (por dia)
+Desvalido
+
+7 PC
+
+Pobre
+
+l PP
+
+Modesto
+
+5 PP
+
+Confortável
+
+8 PP
+
+Abastado
+
+2PO
+
+Aristocrático
+Banquete (por pessoa)
+Carne, pedaço
+
+4 PO
+10 PO
+3 PP
+
+Cerveja
+Caneca
+
+4 PC
+
+Galão
+
+2PP
+
+Pão, fatia
+
+2PP
+
+Queijo, naco
+
+l PP
+
+Refeições (por dia)
+Desvalido
+
+3 PC
+
+Pobre
+
+6 PC
+
+Modesto
+
+3 PP
+
+Confortável
+
+5 PP
+
+Abastado
+
+8 PP
+
+Aristocrático
+
+2PO
+
+Vinho
+Comum (jarro)
+Bom (garrafa)
+
+2PP
+10 PO
+
+AUTOSSUFICIÊNCIA
+
+As despesas e estilos de vida descritos aqui pressupõem que você
+gaste seu tempo entre aventuras na cidade, utilizando os serviços
+dos quais pode dispor - como alimentação, abrigo, ferreiros e ar­
+meiros. Alguns personagens, contudo, preferem passar seu t_empo
+longe da civilização, sustentando-se na natureza por meio da caça,
+coleta e reparando seu próprio equipamento.
+Manter este tipo de estilo de vida não exige que você gaste qual­
+quer moeda, porém consome tempo. Se gastar seu tempo entre as
+aventuras praticando uma profissão como descrito no capítulo 8,
+você pode viver o equivalente a um estilo de vida pobre. Proficiên­
+cia na perícia Sobrevivência permite que você viva o equivalente,
+nos ermos, a um estilo de vida confortável.
+
+SERVIÇOS
+Aventureiros podem pagar personagens não jogadores para
+ajudá-los ou para agir em seu nome nas circunstâncias
+mais diversas. A maioria desses contratados têm perícias
+bastante comuns, enquanto outros são mestres de um ofício
+ou arte. E alguns são versados em perícias especializadas de
+aventureiros.
+Alguns dos tipos mais básicos de contratados aparecem
+na tabela Serviços. Outros tipos comuns incluem qualquer
+pessoa que os aventureiros precisem pagar para executar
+uma tarefa específica, dentre a grande variedade de habitan­
+tes de uma típica aldeia ou cidade. Por exemplo, um mago
+pode pagar um carpinteiro para construir um baú elaborado
+(e sua réplica em miniatura) para uso na magia arca secreta
+de Leomund. Um guerreiro pode contratar um ferreiro para
+forjar uma espada especial. Um bardo pode pagar um alfaiate
+para costurar uma roupa requintada para uma futura apre­
+sentação diante do duque.
+Outros contratados oferecem serviços mais especializados
+ou perigosos. Soldados mercenários pagos para ajudar os
+aventureiros contra um exército de hobgoblins, ou sábios
+contratados para pesquisar um conhecimento antigo ou
+esotérico. Se um aventureiro de nível alto constrói uma forta­
+leza de algum tipo, ele pode contratar uma equipe inteira de
+servos e agentes para administrar o lugar, desde um castelão
+ou intendente a trabalhadores braçais para cuidarem do
+estábulo. Esses contratados, frequentemente, desfrutam de
+um contrato de longa duração, que inclui um lugar para viver
+dentro da fortaleza como parte do pagamento.
+SERVIÇOS
+Serviços
+
+Pagamento
+
+Condução de carroça
+Entre aldeias/cidades
+
+2 PC por quilômetro
+
+Dentro de uma cidade
+
+l PC
+
+Mensageiro
+
+l PC por quilômetro
+
+Passagem de navio
+
+6 PC por quilômetro
+
+Pedágio (de estrada ou portão)
+
+l PC
+
+Trabalhador
+Treinado
+
+2 PO por dia
+
+Não treinado
+
+2 PP por dia
+
+!
+
+Contratados qualificados incluem qualquer indivíduo
+pago para realizar um serviço que envolva uma proficiência
+(incluindo proficiências com armas, ferramentas ou perícias):
+um mercenário, artesão, escriba, e assim por diante. O paga­
+mento indicado é o mínimo; alguns contratados especialistas
+exigem um pagamento maior. Contratados sem treinamento
+são pagos para executar trabalho braçal que não exige
+nenhuma perícia especial e podem incluir operários, carrega­
+dores, criados e empregados.
+
+SERVIÇOS DE CONJURAÇÃO
+Pessoas capazes de conjurar magias não se enquadram
+na categoria de contratados comuns. Talvez seja possível
+encontrar alguém disposto a conjurar uma magia em troca
+de dinheiro ou favores, mas isso raramente acontece e não
+existe um preço preestabelecido para esse tipo de serviço.
+Como regra geral, quanto maior o nível da magia desejada,
+mais difícil é encontrar alguém que possa conjurá-la e mais
+caro custará.
+A contratação de alguém para conjurar uma magia relati­
+vamente comum de 1 ° ou 2 ° círculo, como curar ferimentos
+ou identificar, é relativamente fácil em uma cidade ou aldeia,
+e poderia custar de 10 a 50 peças de ouro (além do custo
+de qualquer componente material mais caro). Encontrar
+alguém capaz e disposto a conjurar uma magia de círculos
+elevados pode envolver uma viagem para uma cidade grande,
+talvez uma cidade que possua uma universidade ou um
+templo proeminente. Uma vez encontrado, o conjurador pode
+pedir um serviço em vez de pagamento - o tipo de serviço
+que apenas aventureiros podem fornecer, como recuperar
+um item raro de um local perigoso ou atravessar um ermo
+infestado de monstros para entregar algo importante em um
+povoado distante.
+
+BUGIGANGAS
+Ao criar seu personagem, você pode jogar uma vez na tabela
+abaixo para sortear uma bugiganga: um item mundano, mas
+que possui um leve toque de mistério. O DM também pode
+usar esta tabela, que pode mostrar-se muito útil para encher
+uma sala em alguma masmorra ou rechear os bolsos de
+alguma criatura.
+
+PARTE 1 j CAPÍTULO 5 j EQUIPAMENTO
+
+1 59
+
+BUGIGANGAS
+
+dl 00
+
+160
+
+Bugigangas
+
+dl 00
+
+Bugigangas
+
+27
+
+Um fragmento de obsidiana que sempre parece quente ao
+toque
+
+01
+
+Uma mão de goblin mumificada
+
+02
+
+Um pedaço de cristal que brilha ao luar
+
+03
+
+Uma moeda de ouro cunhada em uma terra desconhecida
+
+28
+29
+
+Uma unha de dragão pendurada em um colar de couro
+Um par de meias velhas
+
+04
+
+Um diário escrito em um idioma que você não conhece
+
+30
+
+05
+
+Um anel de bronze que nunca mancha
+
+Um livro em branco cujas páginas se recusam a gravar
+tinta, giz, grafite ou qualquer outra substância ou marcação
+
+06
+
+Uma antiga peça de xadrez feita de vidro
+
+31
+
+07
+
+Um par de dados feitos de ossos de articulação, cada um
+com o símbolo de um crânio na face que normalmente
+mostraria seis pontos
+
+Um distintivo de prata no formato de uma estrela de cinco
+pontas
+
+32
+
+Uma faca que pertencia a um parente seu
+
+33
+
+Um frasco de vidro cheio de aparas de unhas
+
+08
+
+Um pequeno ídolo que representa uma criatura aterradora
+e lhe causa sonhos inquietantes quando você dorme
+próximo a ele
+
+34
+
+09
+
+Um colar de sisai tendo como pingentes quatro dedos de
+elfo mumificados
+
+35
+
+Uma luva branca, com lantejoulas, que serve em um humano
+
+36
+
+Um colete com cem bolsos pequenos
+
+10
+
+A escritura de um terreno em um reino desconhecido para você
+
+37
+
+Um pequeno bloco de pedra, sobrenaturalmente leve
+
+11
+
+Um bloco pesando 30 gramas feito de material desconhecido
+
+38
+
+12
+
+Uma pequena boneca de pano espetada com agulhas
+
+39
+
+Um minúsculo retrato rabiscado de um goblin
+Um frasco vazio que cheira a perfume quando aberto
+
+13
+
+Um dente de uma fera desconhecida
+
+40
+
+14
+
+Uma escama enorme, talvez de um dragão
+
+Uma pedra preciosa que se parece com um pedaço de
+carvão quando examinada por qualquer um, exceto você
+
+15
+
+Uma pena verde brilhante
+
+41
+
+Um pedaço de tecido de um antigo estandarte
+
+16
+
+42
+
+Um símbolo de patente de um legionário perdido
+
+43
+
+Um minúsculo sino prateado sem o badalo
+
+17
+
+Uma antiga carta de um baralho de adivinhação cuja figura
+se parece com você
+Um orbe de vidro cheio de fumaça em movimento
+
+44
+
+18
+
+Um ovo, de casca vermelha e brilhante, pesando 500 gramas
+
+Um canário mecânico dentro de uma lâmpada feita por
+gnomos
+
+· Um dispositivo retangular feito de metal, contendo duas
+taças de metal minúsculas em uma das extremidades, e
+que lança faíscas quando molhado
+
+19
+
+Um tubo que sopra bolhas
+
+45
+
+20
+
+Um frasco de vidro contendo um estranho pedaço de
+carne boiando em fluido de conserva
+
+Um minúsculo baú esculpido para parecer que possui
+numerosos pés na base
+
+46
+
+Uma sprite morta dentro de uma garrafa transparente
+
+21
+
+Uma pequena caixa de música feita por gnomos, que toca
+uma canção que faz você lembrar vagamente de sua infância
+
+47
+
+22
+
+Uma diminuta estatueta de madeira retratando um
+pequenino presunçoso
+
+Uma lata de metal que não tem abertura, mas soa como
+se estivesse cheia de líquido, areia, aranhas ou vidro
+quebrado (à sua escolha)
+
+23
+
+Um orbe de bronze gravado com runas estranhas
+
+48
+
+Um orbe de vidro repleto d'água, contendo um peixinho
+dourado mecânico
+
+24
+
+Um disco de pedra multicolorida
+
+49
+
+Uma colher de prata com um M gravado no cabo
+
+25
+
+Um minúsculo ícone prateado retratando um corvo
+
+50
+
+Um apito feito de madeira dourada
+
+26
+
+Uma bolsa contendo 47 dentes humanoides, um dos quais
+está podre
+
+51
+
+Um escaravelho morto do tamanho da sua mão
+
+52
+
+Dois soldados de brinquedo, um sem a cabeça
+
+PARTE l I CAPÍTULO 5 [ EQUIPAMENTO
+
+dl00
+
+Bugigangas
+
+53
+
+Uma pequena caixa cheia de botões de diferentes
+tamanhos
+
+54
+
+Uma vela que não pode ser acesa
+
+55
+
+Uma minúscula gaiola sem porta
+
+56
+
+Uma chave antiga
+
+57
+
+Um mapa de tesouro indecifrável
+
+58
+
+Uma empunhadura de espadas quebrada
+
+dl00
+79
+80
+
+Bugigangas
+Um convite para uma festa onde aconteceu um assassinato
+Um pentagrama de bronze com o entalhe da cabeça de um
+rato no centro
+
+81
+
+Um lenço roxo bordado com o nome de um poderoso
+arquimago
+
+82
+
+Metade da planta baixa de um templo, castelo ou outra
+estrutura
+
+83
+
+Um pouco de tecido dobrado que, quando desdobrado, se
+transforma em um chapéu elegante
+
+59
+
+Um pé de coelho
+
+60
+
+Um olho de vidro
+
+61
+
+Um camafeu esculpido a semelhança de uma pessoa
+hedionda
+
+84
+
+Um recibo de depósito em um banco de uma cidade distante
+
+85
+
+Um diário com sete páginas faltando
+
+62
+
+Um crânio de prata do tamanho de uma moeda
+
+86
+
+63
+
+Uma máscara de alabastro
+
+Uma caixa de rapé prateada e vazia, com uma inscrição na
+superfície que diz "sonhos"
+
+64
+
+Uma pirâmide de incenso preto e pegajoso que tem um
+cheiro muito ruim
+
+87
+
+Um símbolo sagrado de ferro dedicado a um deus
+desconhecido
+
+65
+
+Uma bebida que, quando ingerida, lhe dá sonhos
+agradáveis
+
+88
+
+Um livro que conta a história da ascensão e queda de um
+herói lendário, faltando o último capítulo
+
+66
+
+Um único estrepe feito de osso
+
+89
+
+Um frasco com sangue de dragão
+
+67
+
+Uma armação dourada de um monóculo sem a lente
+
+90
+
+Uma flecha antiga de origem élfica
+
+68
+
+Um cubo de 2,5 centímetros, com cada lado pintado de
+uma cor diferente
+
+91
+
+Uma agulha que nunca entorta
+
+92
+
+Um broche ornamentado de origem anã
+
+69
+
+Uma maçaneta de cristal
+
+93
+
+70
+
+Um pacote pequeno cheio de um pó rosa
+
+71
+
+Um fragmento de uma bela canção, escrita em notação
+musical em dois pedaços de pergaminho
+
+Uma garrafa de vinho vazia com um rótulo bonito que
+diz: "Vinícola O Mago dos Vinhos e Vinhedos, Abraço do
+Dragão Vermelho, 331422-W"
+
+94
+
+72
+
+Um brinco prateado em formato de lágrima feito de uma
+lágrima verdadeira
+
+Uma telha em mosaico com uma superfície vitrificada e
+multicolorida
+
+95
+
+Um camundongo petrificado
+
+73
+
+A casca de um ovo pintada com cenas de angústia humana
+em detalhes perturbadores
+
+96
+
+Uma bandeira pirata preta, adornada com um crânio de
+dragão e ossos cruzados
+
+74
+
+Um leque que, quando aberto, mostra um gato
+adormecido
+
+97
+
+Um minúsculo caranguejo ou aranha mecânico que se
+move quando não está sendo observado
+
+75
+
+Um conjunto de tubos feitos de osso
+
+98
+
+76
+
+Um trevo de quatro folhas conservado dentro de um livro
+que fala sobre modos e etiqueta
+
+Um frasco de vidro contendo banha com um rótulo que
+diz: "Gordura de Grifo!"
+
+77
+
+99
+
+Uma folha de pergaminho na qual está desenhada uma
+engenhoca mecânica complexa
+
+78
+
+Uma caixa de madeira com fundo de cerâmica dentro
+da qual se move um verme com uma cabeça em cada
+extremidade do corpo
+
+Uma bainha ornamentada que não se encaixa em
+nenhuma lâmina que você já tenha encontrado
+
+100
+
+Uma urna de metal contendo as cinzas de um herói
+
+PARTE l I CAPÍTULO 5 1 EQUIPAMENTO
+
+161
